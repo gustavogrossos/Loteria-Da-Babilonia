@@ -1,7 +1,6 @@
 import random
 tentativas = 4
 numero_sorteado = random.randint(1, 15)
-print(numero_sorteado)
 def get_input():
     while True:
         try:
