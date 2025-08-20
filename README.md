@@ -1,4 +1,4 @@
-# Jogo de Adivinhar o Número 🔢
+# Jogo de Adivinhar o Número 
 
 Este é um jogo simples e divertido de adivinhar um número, criado em Python. O objetivo é adivinhar um número secreto em um número limitado de tentativas.
 
